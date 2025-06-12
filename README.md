@@ -1,44 +1,35 @@
-<h1 align="center">🧠 AI Roadmap</h1>
-<h3 align="center">From 0 Coding to Research Scientist in 6 Months 🚀</h3>
+<h1 align="center">
+  🧠 AI Roadmap: Zero to Research Scientist
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-B22222?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GenAI-20c997?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-Python3.10+-black?style=for-the-badge&logo=python&logoColor=lightblue" />
+  <a href="https://github.com/Princerodricks/ai-roadmap/stargazers">
+    <img src="https://img.shields.io/github/stars/Princerodricks/ai-roadmap?style=for-the-badge&color=purple&logo=star" />
+  </a>
+  <img src="https://img.shields.io/badge/LLMs-GPT%2C+BERT%2C+Claude-neon?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-lightblue?style=for-the-badge&logo=githubactions" />
 </p>
 
 ---
 
-### 🎯 Mission
+## 🚀 Journey Breakdown
 
-Become an AI Research Scientist & Generative AI Engineer in 180 days — starting with 0 experience.
+🧱 **Python + Git**  
+🤖 **Machine Learning + Deep Learning**  
+🔮 **LLMs, NLP, and GenAI**  
+📄 **Paper Reproduction + Capstone**
 
----
-
-### 📅 6-Month Phased Plan
-
-| Phase | Duration      | Focus                              |
-|-------|---------------|-------------------------------------|
-| 1     | Month 1–2     | Python + Math for ML                |
-| 2     | Month 2–3     | ML Algorithms + First Projects      |
-| 3     | Month 3–4     | Deep Learning + HuggingFace         |
-| 4     | Month 4–5     | LangChain, RAG, RLHF, Diffusion     |
-| 5     | Month 5–6     | Research Papers + Contributions     |
+> _“Not just learning AI — mastering it like a lab scientist.”_
 
 ---
 
-### 🧰 Stack I’m Building
+## 📌 Structure
 
-- 🐍 Python, VS Code, Jupyter
-- 🤖 Scikit-learn, PyTorch, TensorFlow
-- 🧠 HuggingFace Transformers
-- 🔗 LangChain + RAG
-- 🧪 RLHF, Diffusion, Papers with Code
-
----
-
-### 🧠 Active Resources
-
-- [ ] Python Basics - W3Schools + YouTube
-- [ ] Ma
+``bash
+00_Python/
+01_ML/
+02_DL/
+03_LLMs/
+04_Research/
+05_Capstone_Project/
