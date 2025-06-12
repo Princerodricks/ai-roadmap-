@@ -1,3 +1,5 @@
+![Banner](https://link-to-your-banner-image.png)
+
 <h1 align="center">
   🧠 AI Roadmap: Zero to Research Scientist
 </h1>
