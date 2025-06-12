@@ -22,7 +22,7 @@
 
 | Phase | Focus | Progress |
 |-------|-------|----------|
-| 🧱 Phase 0 | Python + Git | ✅ Completed |
+| 🧱 Phase 0 | Python + Git | 🔄 Ongoing |
 | 🤖 Phase 1 | ML + DL | 🔄 Ongoing |
 | 🔮 Phase 2 | LLMs + RAG | ⏳ Coming soon |
 | 🧪 Phase 3 | Research & Deployment | 🧠 In design |
