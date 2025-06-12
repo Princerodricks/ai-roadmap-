@@ -18,6 +18,18 @@
 
 ---
 
+### 🛸 TRACKING SYSTEM
+
+| Phase | Focus | Progress |
+|-------|-------|----------|
+| 🧱 Phase 0 | Python + Git | ✅ Completed |
+| 🤖 Phase 1 | ML + DL | 🔄 Ongoing |
+| 🔮 Phase 2 | LLMs + RAG | ⏳ Coming soon |
+| 🧪 Phase 3 | Research & Deployment | 🧠 In design |
+
+> _“Not just learning AI — building like an AI engineer.”_
+
+
 ## 🚀 Journey Breakdown
 
 🧱 **Python + Git**  
