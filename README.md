@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Princerodricks/ai-roadmap/blob/main/ai-roadmap_banner.png" alt="AI Banner" style="max-width: 100%;">
+  <img src="https://github.com/Princerodricks/ai-roadmap-/blob/main/ai-roadmap_banner.png" alt="AI Banner" style="max-width: 100%;">
 </p>
 
 <h1 align="center">
