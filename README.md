@@ -1,9 +1,3 @@
-
----
-
-## 📘 `ai-roadmap/README.md` – From Zero to AI Researcher
-
-```markdown
 <h1 align="center">🧠 AI Roadmap</h1>
 <h3 align="center">From 0 Coding to Research Scientist in 6 Months 🚀</h3>
 
@@ -47,21 +41,4 @@ Become an AI Research Scientist & Generative AI Engineer in 180 days — startin
 ### 🧠 Active Resources
 
 - [ ] Python Basics - W3Schools + YouTube
-- [ ] Math for ML - Linear Algebra, Calculus, Stats
-- [ ] ML Crash Course - Google, Coursera
-- [ ] YouTube: Sentdex, FreeCodeCamp, Harrison Kinsley
-- [ ] arXiv - Paper replication challenges
-
----
-
-### 📌 Repo Goals
-
-This repo tracks:
-- ✅ My progress
-- 🧪 Resources used
-- 🔭 Future projects
-- 🧬 Final goal: Enter AI research + ₹2Cr+ job
-
----
-
-> 🛸 *The future won’t wait. Neither will I. This repo is my blueprint to break into the most powerful field on Earth: Artificial Intelligence.*
+- [ ] Ma
