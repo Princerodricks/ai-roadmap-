@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/LLMs-GPT%2C+BERT%2C+Claude-neon?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-lightblue?style=for-the-badge&logo=githubactions" />
   <p align="center">
-  <img src="https://img.shields.io/badge/Language-Python3.10+-blue?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-GPT%2C+BERT%2C+Claude-ff69b4?style=flat-square&logo=openai" />
   <img src="https://img.shields.io/badge/DeepLearning-TensorFlow%2C+PyTorch-orange?style=flat-square&logo=pytorch" />
   <img src="https://img.shields.io/badge/Status-In+Progress-yellow?style=flat-square&logo=githubactions" />
